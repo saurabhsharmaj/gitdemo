@@ -1,3 +1,2 @@
 # gitdemo
-test git with different command
-feature 1
+test git with different command feature2
